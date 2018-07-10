@@ -1,0 +1,40 @@
+Name, Type, Kind, Power, Accuracy, PP, Contact, Flag, Effect
+Aerial Ace, Flying, Physical,60, ---,20, True, Surefire, Always Hit
+Body Slam, Normal, Physical,75,100,15,TRUE, Flinch, 30% chance to Paralyze target.
+Calm Mind, Psychic, Status,0, ---,20, False, CalmMind, Raises the user's Special Attack and Special Defense by 1 stage each.
+Close Combat, Fighting, Physical,120,100,5, True, D-, Decreases the user's Defense and Special Defense by 1 stage each.
+Double-Edge, Normal, Physical,120,100,15, False, Recoil, The user receives 30% recoil.
+Crunch, Dark, Physical,80,100,10, True, 10D-, 10% to decrease target's defense.
+Dragon Dance, Dragon, Status,0, ---,20, False, DragonDance, Raises the user's Speed and Attack by 1 stage each.
+Earthquake, Ground, Physical,100,100,10, False, None, No additional effect.
+Facade, Normal, Physical,70,100,20, True, Facade, Doubles power if under a status effect
+Fire Blast, Fire, Special,120,85,5, False, 10Burn, 10% to Burn target. 
+Flamethrower, Fire, Special,95,100,15, False, 10Burn, 10% to Burn target.
+Giga Drain, Grass, Special ,70,100,10, False, LifeDrain, Drains 50% of damage dealt.
+Heart Stamp, Psychic, Physical,60,100,20, True, Flinch, 30% chance to flinch target.
+Heat Wave, Fire, Special,100,90,10, False, 10Burn, 10% to Burn target.
+Hydro Pump, Water, Special,120,80,5,FALSE, None, No additional effect.
+Ice Beam, Ice, Special,95,100,10, False, 10Freeze, 10% to Freeze target.
+Ice Punch, Ice, Physical,75,100,20, True, 10Freeze, 10% to Freeze target.
+Icicle Spear, Ice, Physical,25,100,30, False, Multihit, Hits 2-5 times.
+Iron Head, Steel, Physical,75,100,15, True, Flinch, 30% chance to flinch target.
+Megahorn, Bug, Physical,120,85,5, True, None, No additional effect.
+Meteor Mash, Steel, Physical,100,85,10, True, MeteorMash, 20% chance to raise user's Attack by 1 stage.
+Protect, Normal, Status,0, ---,15, False, Protect, Protects the user from any damage.
+Psychic, Psychic, Special,90,100,10, False, 10SD-, 10% to reduce target's Special Defense.
+Recover, Normal, Status,0, ---,20, False, Recover, Recover 50% HP.
+Rest, Normal,Status,0, ---,10,FALSE, Rest, User go to sleep for 2 turns and fully restore
+Rock Blast, Rock, Physical,25,90,10, False, Multihit, Hits 2-5 times. 
+Rock Slide, Rock, Physical,75,90,10, False, Flinch, 30% chance to make the target flinch.
+Shadow Ball, Ghost, Special,80,100,15, False, 10SD-, 10% to reduce target's Special Defense.
+Shell Smash, Water, Status,0, ---,10, False, ShellSmash, Decrease Def and SpD by 1 stage and increases Atk and SpA by 2 stages.
+Sleep Talk, Normal,Status,0,100,10, False, SleepTalk, User uses 1 move randomly except this move when asleep.
+Sludge Bomb, Poison, Special,90,100,10, False, 10Poison, 10% to Poison the target.
+Soft-Boiled, Normal, Status,0, ---,10, False, Recover, Recover 50% HP.
+Surf, Water, Special,95,100,15,FALSE, None, No addtional effect.
+Thunderbolt, Electric, Special,95,100,15, False, 10Par, 10% to Paralyze the target.
+Toxic, Poison, Status,0,85,10, False, Toxic, Inflicts badly poison status on target.
+Waterfall, Water, Physical,80,100,15, True, Flinch, 30% to flinch target.
+Will-O-Wisp, Fire, Status,0,85,15,FALSE, Burn, Inflicts Burn on target
+Wing Attack, Flying, Physical,70,100,30, True, No special effect.
+Zen Headbutt, Psychic, Physical,80,90,15,TRUE, Flinch, 30% to flinch target
